@@ -1,3 +1,4 @@
 adafd
 ok
-Creating a new branch is quick & simple_master.
+Creating a new branch is quick AND simple.
+
